@@ -94,6 +94,9 @@ footer {
     padding: 54px
 }
 
+.social {
+    padding:54px 27px;
+}
 
 .aligner {
   display: flex;
@@ -105,6 +108,12 @@ footer {
   max-width: 50%;
 }
 
-.about-icon {
-
+.tools-icon {
+    color:#777;
+    i {
+        font-size:81px;
+    }
+    p {
+        margin-bottom:54px;
+    }    
 }

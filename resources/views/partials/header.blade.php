@@ -5,10 +5,9 @@
         <i class="material-icons">lightbulb_outline</i>
       </a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><a href="#about">About me</a></li>
-        <li><a href="#work">Work</a></li>
-        <li><a href="#clients">Clients</a></li>
-        <li><a href="#contacts">Contacts</a></li>
+        <li><a href="#about">Par mani</a></li>
+        <li><a href="#work">Darbi</a></li>
+        <li><a href="#contacts">Kontakti</a></li>
       </ul>
     </div>
   </nav>

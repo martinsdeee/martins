@@ -8665,6 +8665,9 @@ footer {
 .section {
   padding: 54px; }
 
+.social {
+  padding: 54px 27px; }
+
 .aligner {
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -8678,5 +8681,12 @@ footer {
 
 .aligner-item {
   max-width: 50%; }
+
+.tools-icon {
+  color: #777; }
+  .tools-icon i {
+    font-size: 81px; }
+  .tools-icon p {
+    margin-bottom: 54px; }
 
 /*# sourceMappingURL=app.css.map */
