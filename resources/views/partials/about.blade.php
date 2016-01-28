@@ -51,7 +51,7 @@
     <div class="col s12 m6">
       Dizains
       <div class="progress">
-        <div class="determinate" style="width: 54%"></div>
+        <div class="determinate" style="width: 74%"></div>
       </div>
     </div>      
   </div>
