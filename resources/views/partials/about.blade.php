@@ -26,7 +26,7 @@
   </div>
   <div class="row">
     <div class="col s12">
-      <h5 class="center-align small-bold">Spējas</h5>
+      <h5 class="center-align small-bold small-title">Spējas</h5>
     </div>
   </div>
   <div class="row">
@@ -57,7 +57,7 @@
   </div>
   <div class="row">
     <div class="col s12">
-      <h5 class="center-align small-bold">Rīki (mana instrumentu josta)</h5>
+      <h5 class="center-align small-bold small-title">Rīki (mana instrumentu josta)</h5>
     </div>
   </div>
   <div class="row center-align tools-icon small-bold">
