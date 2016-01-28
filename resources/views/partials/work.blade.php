@@ -9,42 +9,42 @@
       <div class="col s12 m4">
         <div class="card white">
           <div class="card-image">
-            <img class="materialboxed" data-caption="B2B Contact form (Twitter Bootstrap 3 @2015)" src="/img/work/b2b-contact-form.png">
+            <img class="materialboxed" data-caption="B2B Contact form (Twitter Bootstrap 3 @2015)" src="/img/work/b2b-contact-form.jpg">
           </div>
         </div>     
       </div>
       <div class="col s12 m4">
         <div class="card white">
           <div class="card-image">
-            <img class="materialboxed" data-caption="Login form (Materializecss @2015)" src="/img/work/login-form.png">
+            <img class="materialboxed" data-caption="Login form (Materializecss @2015)" src="/img/work/login-form.jpg">
           </div>
         </div>     
       </div>
       <div class="col s12 m4">
         <div class="card white">
           <div class="card-image">
-            <img class="materialboxed" data-caption="Timesheets (Laravel + Materializecss @2015)" src="/img/work/timesheets.png">
+            <img class="materialboxed" data-caption="Timesheets (Laravel + Materializecss @2015)" src="/img/work/timesheets.jpg">
           </div>
         </div>     
       </div>
       <div class="col s12 m4">
         <div class="card white">
           <div class="card-image">
-            <img class="materialboxed" data-caption="Content radar (Laravel + Materializecss @2015)" src="/img/work/content-radar.png">
+            <img class="materialboxed" data-caption="Content radar (Laravel + Materializecss @2015)" src="/img/work/content-radar.jpg">
           </div>
         </div>     
       </div>
       <div class="col s12 m4">
         <div class="card white">
           <div class="card-image">
-            <img class="materialboxed" data-caption="Transport system (Codeigniter + Grid960 @2010)" src="/img/work/transport-system.png">
+            <img class="materialboxed" data-caption="Transport system (Codeigniter + Grid960 @2010)" src="/img/work/transport-system.jpg">
           </div>
         </div>     
       </div>
       <div class="col s12 m4">
         <div class="card white">
           <div class="card-image">
-            <img class="materialboxed" data-caption="Turpinājums sekos" src="/img/work/dots.png">
+            <img class="materialboxed" data-caption="Turpinājums sekos" src="/img/work/dots.jpg">
           </div>
         </div>     
       </div>
